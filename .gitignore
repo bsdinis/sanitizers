@@ -1,0 +1,9 @@
+*
+!README.md
+!LICENCE
+!address/*.c
+!ub/*.c
+!memory/*.c
+!address/Makefile
+!ub/Makefile
+!memory/Makefile
